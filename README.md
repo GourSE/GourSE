@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
-![](https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&username=GourSE)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&count_private=true&username=GourSE)
+![GourSE](https://github-readme-stats.vercel.app/api?username=GourSE&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GourSE&theme=tokyonight)](https://github.com/GourSE/github-readme-stats)
 
 <!--
 **GourSE/GourSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
