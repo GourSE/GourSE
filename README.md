@@ -2,7 +2,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&username=GourSE)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=GourSE)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&count_private=true&username=GourSE)
 
 <!--
 **GourSE/GourSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
